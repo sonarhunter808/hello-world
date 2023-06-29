@@ -1,0 +1,34 @@
+riskfactor = 6.0
+x = riskfactor / 2
+x < Enter >
+
+x = x + ( x + riskfactor ) * 4
+x < Enter >
+
+c(2040, 1329, 3420 ) / 30
+
+daily_avg_miles < c(2040, 1329, 3420 )
+
+
+daily_avg_miles = c(2040, 1329, 3420 )
+daily_avg_miles / 30
+
+length(daily_avg_miles)
+
+
+sort(daily_avg_miles)
+
+
+min(daily_avg_miles)
+max(daily_avg_miles)
+
+daily_avg_miles=c(2040,1329,3420, 1599, 3455, 2956, 3009, 4088, 1590)
+
+
+Truck_id <- “TR05”
+Truck_id <Enter>
+
+categories <- c(“Miles”, “Distance”, “Mileage”, “Gallon”, “Gas”, “Speed”, “Driver”, “Truck_Id”, “riskfactor”)
+
+
+https://1drv.ms/t/s!Amn0l-IALJYsj37_smxT6fUBR7sJ?e=MRDa9X
